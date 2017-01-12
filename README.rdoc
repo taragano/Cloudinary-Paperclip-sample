@@ -1,3 +1,5 @@
 == README
 
 Make sure you include your cloudinary.yml file under the <tt>/config/</tt> folder.
+
+Note that this sample project uses the {paperclip-cloudinary}[https://github.com/GoGoCarl/paperclip-cloudinary] GEM which is a community contributed library and was not created by Cloudinary, therefore Cloudinary won't be able to officially support this GEM.
